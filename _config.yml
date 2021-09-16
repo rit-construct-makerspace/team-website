@@ -1,3 +1,6 @@
+domain: rit-construct-makerspace.github.io
+baseurl: /team-website/
+
 collections:
   fourups:
     output: true
