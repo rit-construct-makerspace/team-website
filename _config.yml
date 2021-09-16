@@ -1,5 +1,5 @@
-domain: rit-construct-makerspace.github.io
-baseurl: /team-website/
+baseurl: /
+url: https://rit-construct-makerspace.github.io
 
 collections:
   fourups:
