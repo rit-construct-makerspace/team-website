@@ -43,7 +43,7 @@ title: Home
 <ul>
     {% for fourup in site.fourups %}
         <li>
-            <a href="team-website{{ fourup.url }}">{{ fourup.title }}</a>
+            <a href="{{ fourup.url }}">{{ fourup.title }}</a>
         </li>
     {% endfor %}
 </ul>
