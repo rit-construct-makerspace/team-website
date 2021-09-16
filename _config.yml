@@ -1,6 +1,3 @@
-baseurl: /team-website
-url: https://rit-construct-makerspace.github.io
-
 collections:
   fourups:
     output: true
