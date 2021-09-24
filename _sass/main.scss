@@ -1,39 +1,47 @@
 html {
-    font-family: 'Roboto', sans-serif;
-    font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
 }
 
 body {
-    margin: 60px auto 0 auto;
-    max-width: 800px;
+  margin: 60px auto 0 auto;
+  max-width: 800px;
 }
 
 h2 {
-    margin-top: 60px;
+  margin-top: 60px;
+}
+
+.rit-logo {
+  width: 360px;
 }
 
 .members {
-    display: flex;
-    flex-flow: row wrap;
+  display: grid;
+  grid-template-columns: auto auto;
+  column-gap: 40px;
+  row-gap: 40px;
 
-    .member {
-        margin: 0 40px 20px 0;
-    
-        img {
-            width: 80px;
-            height: 80px;
-            margin-right: 20px;
-        }
-    
-        .name {
-            font-weight: 700;
-        }
-    
-        .role {
-            font-weight: 300;
-        }
-    
-        display: flex;
-        align-items: center;
+  .member {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+
+    img {
+      width: 80px;
+      height: 80px;
+      margin-right: 20px;
+      object-fit: cover;
+      border-radius: 50%;
+      box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.25);
     }
+
+    .name {
+      font-weight: 700;
+    }
+
+    .role {
+      font-weight: 300;
+    }
+  }
 }
