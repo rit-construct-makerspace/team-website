@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="322px" preserveAspectRatio="none"
+     style="width:836px;height:322px;background:#FFFFFF;" version="1.1" viewBox="0 0 836 322" width="836px"
+     zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1hjwk2yxy2dyh" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <rect fill="#FEFECE" filter="url(#f1hjwk2yxy2dyh)" height="60.8906" style="stroke:#A80036;stroke-width:1.5;"
+              width="89" x="180.3651" y="7"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="46" x="201.8651"
+              y="20.1387">Student
+        </text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="181.3651" x2="268.3651" y1="24.9688" y2="24.9688"/>
+        <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="32" x="186.3651"
+              y="38.251">name
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="77" x="186.3651"
+              y="49.8916">machine-time
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="24" x="186.3651"
+              y="61.5322">year
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1hjwk2yxy2dyh)" height="37.6094" style="stroke:#A80036;stroke-width:1.5;"
+              width="54" x="314.8651" y="160"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="40" x="321.8651"
+              y="173.1387">Labbie
+        </text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="315.8651" x2="367.8651" y1="177.9688" y2="177.9688"/>
+        <text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="32" x="320.8651"
+              y="191.251">name
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1hjwk2yxy2dyh)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;"
+              width="61" x="31.3649" y="275"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="47" x="38.3649"
+              y="288.1387">Material
+        </text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="32.3649" x2="91.3649" y1="292.9688" y2="292.9688"/>
+        <rect fill="#FEFECE" filter="url(#f1hjwk2yxy2dyh)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;"
+              width="63" x="497.3651" y="162"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="49" x="504.3651"
+              y="175.1387">Machine
+        </text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="498.3651" x2="559.3651" y1="179.9688" y2="179.9688"/>
+        <rect fill="#FEFECE" filter="url(#f1hjwk2yxy2dyh)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;"
+              width="100" x="618.8651" y="20.5"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="86" x="625.8651"
+              y="33.6387">Controller Box
+        </text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="619.8651" x2="717.8651" y1="38.4688" y2="38.4688"/>
+        <rect fill="#FEFECE" filter="url(#f1hjwk2yxy2dyh)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;"
+              width="89" x="190.3651" y="162"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="75" x="197.3651"
+              y="175.1387">Card Reader
+        </text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="191.3651" x2="278.3651" y1="179.9688" y2="179.9688"/>
+        <rect fill="#FEFECE" filter="url(#f1hjwk2yxy2dyh)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;"
+              width="117" x="188.3651" y="275"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="103"
+              x="195.3651" y="288.1387">Labbie Computer
+        </text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="189.3651" x2="304.3651" y1="292.9688" y2="292.9688"/>
+        <rect fill="#FEFECE" filter="url(#f1hjwk2yxy2dyh)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;"
+              width="82" x="417.8651" y="20.5"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="68" x="424.8651"
+              y="33.6387">Lab Screen
+        </text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="418.8651" x2="498.8651" y1="38.4688" y2="38.4688"/>
+        <rect fill="#FEFECE" filter="url(#f1hjwk2yxy2dyh)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;"
+              width="104" x="718.8651" y="162"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="90" x="725.8651"
+              y="175.1387">Google Sheets
+        </text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="719.8651" x2="821.8651" y1="179.9688" y2="179.9688"/>
+        <path codeLine="17"
+              d="M186.3651,68.116 C168.5321,85.613 153.5321,108.488 164.8651,130 C171.2311,142.085 182.1651,151.711 193.5231,159.075 "
+              fill="none" id="Student-to-CardReader" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="#A80036"
+                 points="198.0601,161.889,192.521,153.7454,193.8113,159.2531,188.3036,160.5435,198.0601,161.889"
+                 style="stroke:#A80036;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="72" x="165.8651"
+              y="111.0669">checks into
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="57" x="173.3651"
+              y="126.1997">lab using
+        </text>
+        <path codeLine="18" d="M652.8051,54.502 C627.0971,80.118 576.7621,130.274 548.7961,158.14 " fill="none"
+              id="Box-to-Machine" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="#A80036"
+                 points="545.1691,161.755,554.3672,158.2343,548.7104,158.2252,548.7195,152.5683,545.1691,161.755"
+                 style="stroke:#A80036;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="108"
+              x="608.8651" y="118.5669">Disables/enables
+        </text>
+        <path codeLine="19"
+              d="M314.7441,190.867 C308.8511,193.223 302.6501,195.698 296.8651,198 C226.2571,226.0926 143.6301,258.7391 97.5616,276.9204 "
+              fill="none" id="Labbie-to-Material" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="#A80036"
+                 points="92.6738,278.8493,102.5139,279.2662,97.3248,277.0138,99.5771,271.8247,92.6738,278.8493"
+                 style="stroke:#A80036;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="57" x="220.8651"
+              y="241.0669">Manages
+        </text>
+        <path codeLine="20"
+              d="M179.9671,47.764 C127.1841,61.565 43.7362,93.404 19.865,160 C6,198.681 29.7409,244.5378 46.8034,270.4548 "
+              fill="none" id="Student-to-Material" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="#A80036"
+                 points="49.689,274.7473,47.9875,265.0465,46.8995,270.5978,41.3483,269.5098,49.689,274.7473"
+                 style="stroke:#A80036;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="31" x="20.865"
+              y="183.5669">Uses
+        </text>
+        <path codeLine="21"
+              d="M269.5471,48.28 C305.3271,57.446 355.8131,73.46 394.8651,98 C411.8951,108.702 410.4091,118.435 426.8651,130 C447.0251,144.169 472.0271,156.011 492.2321,164.388 "
+              fill="none" id="Student-to-Machine" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="#A80036"
+                 points="496.9941,166.336,490.1779,159.2269,492.3662,164.4434,487.1497,166.6317,496.9941,166.336"
+                 style="stroke:#A80036;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="31" x="427.8651"
+              y="118.5669">Uses
+        </text>
+        <path codeLine="22" d="M326.1781,198.329 C309.0831,218.3032 281.8141,250.1645 264.1241,270.8336 " fill="none"
+              id="Labbie-to-computer" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="#A80036"
+                 points="260.7201,274.8114,269.6112,270.5748,263.9713,271.0128,263.5334,265.3729,260.7201,274.8114"
+                 style="stroke:#A80036;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="31" x="301.8651"
+              y="241.0669">Uses
+        </text>
+        <path codeLine="23"
+              d="M180.2941,57.475 C122.5161,84.954 33.1418,139.031 68.8649,198 C93.6026,238.8354 142.8041,262.594 183.2211,275.8608 "
+              fill="none" id="Student-to-computer" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="#A80036"
+                 points="188.1041,277.4272,180.7577,270.8675,183.3435,275.8988,178.3122,278.4846,188.1041,277.4272"
+                 style="stroke:#A80036;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="88" x="76.8649"
+              y="176.0669">Registers and
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="102" x="69.8649"
+              y="191.1997">pays balance at
+        </text>
+        <path codeLine="24" d="M269.4291,37.5 C310.3761,37.5 370.8381,37.5 412.3811,37.5 " fill="none"
+              id="Student-to-screen" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="#A80036" points="417.6051,37.5,408.6051,33.5,412.6051,37.5,408.6051,41.5,417.6051,37.5"
+                 style="stroke:#A80036;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="325.1151"
+              y="30.5669">views
+        </text>
+        <path codeLine="25"
+              d="M466.3051,54.63 C474.1351,74.25 483.3541,107.525 467.8651,130 C446.8951,160.428 403.8731,171.582 373.9711,175.661 "
+              fill="none" id="screen-to-Labbie" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="#A80036"
+                 points="368.9191,176.301,378.3506,179.1378,373.8795,175.6724,377.3448,171.2012,368.9191,176.301"
+                 style="stroke:#A80036;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="72" x="477.8651"
+              y="118.5669">Lists active
+        </text>
+        <path codeLine="26"
+              d="M689.4291,54.597 C702.7251,65.751 719.7481,81.513 731.8651,98 C745.2991,116.279 756.1511,139.904 762.9641,156.731 "
+              fill="none" id="Box-to-sheets" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="#A80036"
+                 points="764.9471,161.721,765.3399,151.88,763.1003,157.0746,757.9057,154.8349,764.9471,161.721"
+                 style="stroke:#A80036;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="75" x="750.8651"
+              y="118.5669">Reads from
+        </text>
+        <path codeLine="27"
+              d="M314.8281,160.894 C302.9091,152.518 289.2771,141.718 278.8651,130 C263.6171,112.839 250.4321,90.739 240.9091,72.557 "
+              fill="none" id="Labbie-to-Student" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="#A80036"
+                 points="238.5671,68.025,239.1425,77.857,240.8613,72.4676,246.2507,74.1864,238.5671,68.025"
+                 style="stroke:#A80036;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="110"
+              x="279.8651" y="118.5669">Confirms training
+        </text>
+    </g>
+</svg>
